@@ -1,3 +1,7 @@
-install terraform 
-terraform init
-terraform apply
+Using terraform to setup environment AWS
+    install terraform 
+    terraform init
+    terraform apply
+
+Push code
+Create new pull request
